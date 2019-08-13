@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="password_hint">Password</string>
+    <string name="Username_hint">Username</string>
+    <string name="Login">Login</string>
+    <string name="google_login">Google Login</string>
+    <string name="createuser_button">Dont have an account? Sign Up</string>
+    <string name="textviewsignUp">Dont have an account? Sign Up</string>
+    <string name="textviewlogin">Already have an account? Log In</string>
+    <string name="signupButton">SIGN UP</string>
+</resources>
